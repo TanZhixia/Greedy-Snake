@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "fstream": "cpp",
+        "vector": "cpp",
+        "chrono": "cpp"
+    }
+}
